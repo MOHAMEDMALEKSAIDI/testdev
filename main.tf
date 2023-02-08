@@ -1,5 +1,5 @@
 provider "null" {
-  version = "2.1.2"
+ 
 }
 
 resource "null_resource" "hello_world" {
